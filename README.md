@@ -14,6 +14,8 @@ An example [@mariocasted](https://twitter.com/mariocasted) Tweet:
 ## Feats, Struggles, and Reflection
 [@mariocasted](https://twitter.com/mariocasted) builds off of my work with [@Arbucklebot](https://twitter.com/ArbuckleBot) by further incorporating images and centralizing the general concept around an internet meme. The bot itself gathers its images from two separate Twitter accounts, [@mariosmirror](https://twitter.com/mariosMirror) for celebrities and [@mariohitlist](https://twitter.com/mariohitlist) for characters. The code itself for [@mariocasted](https://twitter.com/mariocasted)  is rather simple, but given that it works with a set amount of images, repetition is bound to happen. Ultimately, this is the bot's largest flaw and what I hope to improve in the future by taking a name and image from databases to create limitless combinations. In the meantime, I will continue to add more characters and celebrities to reduce said repetition.
 
+## Changes and Improvements
+ 
   **11/27/21**
 - Added an expanded list of celebrities and characters
 - Reduced post frequency to once a day (from twice a day)
