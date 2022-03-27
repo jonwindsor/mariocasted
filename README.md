@@ -19,3 +19,6 @@ An example [@mariocasted](https://twitter.com/mariocasted) Tweet:
   **11/27/21**
 - Added an expanded list of celebrities and characters
 - Reduced post frequency to once a day (from twice a day)
+
+  **3/27/22**
+- Added an expanded list of celebrities
